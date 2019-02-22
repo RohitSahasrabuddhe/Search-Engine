@@ -1,0 +1,29 @@
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5rem;
+}
+
+.logo {
+  font-family: "Product Sans", "Capriola", sans-serif;
+}
+
+.logo:hover {
+  text-decoration: none;
+}
+
+.result {
+  margin-top: 2.25rem;
+}
+.result em {
+  /* text-transform: uppercase; */
+  font-style: normal;
+  font-weight: bold;
+  font-family: monospace;
+  vertical-align: middle;
+  opacity: 0.7;
+  margin-right: 12px;
+}
+
+#autocomplete {
+  font-family: Arial, Helvetica, sans-serif;
+}
